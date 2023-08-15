@@ -18,15 +18,4 @@ npm run json-server
 npm start
 ```
 
-
-
-
-Telas do projeto:
-* Tela inicial com input para pesquisa
-![Tela inicial](https://github.com/saraivas/using-api-github/assets/48689789/db8e1e77-2c61-417e-93f0-c99ebba8865b)
-
-* Tela com repositórios e opções de filtragem de acordo com a linguagem
-![Tela com os repositórios](https://github.com/saraivas/using-api-github/assets/48689789/0048462f-75d1-4b0b-bad3-229227cf1778)
-
-
-
+![2023-08-15 15-39-33](https://github.com/saraivas/using-api-github/assets/48689789/81c231ab-9eba-4792-ba49-1bf77c5ba466)
