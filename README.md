@@ -1,10 +1,9 @@
 # API Github
 Implementando um aplicativo que consome API Rest.
 
-# Índice 
-
-* [CRA Template]
-* [Styled components]
-* [API]
-* [Rotas (múltiplas telas)]
-* [Estrutura de múltiplos componentes (arquitetura)]
+Neste projeto você vai iniciar o aprofundamento nos conceitos importantes como:
+* CRA Template
+* Styled components
+* API
+* Rotas (múltiplas telas)
+* Estrutura de múltiplos componentes (arquitetura)
